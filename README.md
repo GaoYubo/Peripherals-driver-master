@@ -4,10 +4,11 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/gaoyubo/Peripherals-driver-master/0.0.1.svg)](https://github.com/GaoYubo/Peripherals-driver-master/commits/0.0.1)
 [![MIT license](https://img.shields.io/badge/license-GNU-blue.svg)](https://github.com/GaoYubo/Peripherals-driver-master/blob/master/LICENSE)
 
+[项目地址](https://gaoyubo.github.io/Peripherals-driver-master/)
+
 **Contact Me:**
 * QQ: 1247576249
 * Email: g_yubo@163.com
-## Keywords: STM32 , c
 ------------------------------------------------------------------------------
 
 ## 描述
@@ -17,6 +18,6 @@
 ## 项目结构
 ![Folder structure](https://github.com/GaoYubo/Peripherals-driver-master/blob/master/4_%20Documentation/_image/Folder%20structure.png)
 
-## 许可
+## 许可协议
 
-采用 GNU 开源协议，细节请阅读项目中的 LICENSE 文件内容。
+本项目采用 GNU 开源协议，细节请阅读项目中的 LICENSE 文件内容。
