@@ -15,7 +15,7 @@
 - 如果你有任何疑问或对此项目感兴趣，并且有意为此贡献自己的一份心血，可以通过上面的联系方式与我联系。联系我时，请备注“Peripherals driver master”。
 
 ## 项目结构
-![Folder structure](https://github.com/GaoYubo/Peripherals-driver-master/4-_Documentation/_image/Folder-structure.png)
+![Folder structure](https://github.com/GaoYubo/Peripherals-driver-master/blob/master/4_%20Documentation/_image/Folder%20structure.png)
 
 ## 许可
 
