@@ -1,7 +1,6 @@
 # Peripherals driver master -- STM32外设驱动库
 
 [![GitHub release](https://img.shields.io/github/release/gaoyubo/Peripherals-driver-master.svg)](https://github.com/GaoYubo/Peripherals-driver-master/releases/latest)
-[![GitHub commits](https://img.shields.io/github/commits-since/gaoyubo/Peripherals-driver-master/0.0.1.svg)](https://github.com/GaoYubo/Peripherals-driver-master/commits/0.0.1)
 [![MIT license](https://img.shields.io/badge/license-GNU-blue.svg)](https://github.com/GaoYubo/Peripherals-driver-master/blob/master/LICENSE)
 
 [项目地址](https://gaoyubo.github.io/Peripherals-driver-master/)
@@ -9,6 +8,7 @@
 **Contact Me:**
 * QQ: 1247576249
 * Email: g_yubo@163.com
+* **Email**: g_yubo@163.com
 ------------------------------------------------------------------------------
 
 ## 描述
